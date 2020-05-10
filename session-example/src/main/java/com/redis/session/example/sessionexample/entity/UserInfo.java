@@ -17,4 +17,7 @@ public class UserInfo {
     private String password;
     private String sex;
     private String salt;
+    private int id;
+    private String phone;
+    private int status;
 }
