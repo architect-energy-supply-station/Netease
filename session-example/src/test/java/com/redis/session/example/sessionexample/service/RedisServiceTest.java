@@ -1,5 +1,6 @@
 package com.redis.session.example.sessionexample.service;
 
+import com.redis.session.example.sessionexample.entity.UserInfo;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
